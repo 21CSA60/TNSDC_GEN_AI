@@ -3,7 +3,7 @@
 - The Face Emotion Recognition is a project aimed at real-time emotion detection using deep learning techniques. It utilizes a convolutional neural network (CNN) model to classify facial expressions into seven categories: anger, fear, happiness, neutrality, sadness, surprise, and disgust.
 # INTRODUCTION
 - Detecting human emotions is an essential aspect of human-computer interaction, and this project provides a solution for real-time emotion recognition using facial expression analysis. By leveraging computer vision and deep learning technologies, the Emotion Detector offers a practical tool for various applications, including user experience enhancement, psychological research, and human-computer interaction studies.
-# Features
+# FEATURES
 - Real-time emotion detection from webcam feed
 - Classification of emotions into seven categories
 - User-friendly graphical interface
